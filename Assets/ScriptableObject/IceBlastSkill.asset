@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f51623e2abb6486db3471bedcdc45ac4, type: 3}
-  m_Name: IceBlastMagic
+  m_Name: IceBlastSkill
   m_EditorClassIdentifier: 
   _iceBlastPrefab: {fileID: 3620795320406989644, guid: c310afac052d6cb4093b671fd72d0d74,
     type: 3}
