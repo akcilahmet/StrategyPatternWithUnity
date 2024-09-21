@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0d7a6118ba84cbf840e5d0c8cbd0105, type: 3}
   m_Name: FireBallSkill
   m_EditorClassIdentifier: 
+  _cooldownTime: 1
+  _animationTrigger: {fileID: 11400000, guid: 4e0ad61953eebcc4297eb4d53dcd7664, type: 2}
   _fireBallPrefab: {fileID: 5251280690913092584, guid: 330f10d4ea43d6f4989d06f7235b5d45,
     type: 3}
   _moveSpeed: 10
   _destroyTime: 5
+  _yOffset: 1.25

@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e63ae304bdf438aa2e23d9568077c39, type: 3}
   m_Name: ShieldSkill
   m_EditorClassIdentifier: 
+  _cooldownTime: 2
+  _animationTrigger: {fileID: 11400000, guid: 6a89ced5cdf1b5c439c50783748a121a, type: 2}
   _shieldPrefab: {fileID: 9128858242788424409, guid: 7062c5ccaa9f75b49827f2ecfc3dc2e7,
     type: 3}
-  _destroyTime: 100
+  _destroyTime: 2
+  _yOffset: 1.25
