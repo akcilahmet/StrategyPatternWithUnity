@@ -20,7 +20,7 @@ namespace StrategyPattern
         /// </summary>
         protected void TriggerAnimation(Animator animator)
         {
-            animator.SetTrigger(_animationTrigger.TriggerName); // Enum yerine ScriptableObject'ten gelen tetikleyici ismi
+            animator.SetTrigger(_animationTrigger.TriggerName);
         }
         
         /// <summary>

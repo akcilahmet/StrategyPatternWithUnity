@@ -12,7 +12,7 @@ namespace StrategyPattern
         [SerializeField]
         private GameObject _fireBallPrefab;
 
-        [Tooltip("The movement speed of the fireball.")]
+        [Tooltip("The movement speed of the fireball projectile.")]
         [SerializeField]
         private float _moveSpeed = 10f;
 
