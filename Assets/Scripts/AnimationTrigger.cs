@@ -2,7 +2,7 @@
 
 namespace StrategyPattern
 {
-    [CreateAssetMenu(fileName = "NewAnimationTrigger", menuName = "Animation/AnimationTrigger")]
+    [CreateAssetMenu(fileName = "NewAnimationTrigger", menuName = "AnimationTrigger")]
     public class AnimationTrigger : ScriptableObject
     {
         [Tooltip("The name of the animation trigger in the Animator.")]
